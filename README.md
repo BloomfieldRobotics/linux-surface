@@ -1,6 +1,19 @@
 # Linux Surface
 
-Linux running on the Microsoft Surface devices.
+Linux running on the Microsoft Surface devices . Follow the instructions below to install the latest kernel and config files.
+
+### Supported Devices
+
+* Surface Book
+* Surface Book 2
+* Surface Go
+* Surface Laptop
+* Surface Laptop 2
+* Surface Pro 3
+* Surface Pro 4
+* Surface Pro 2017
+* Surface Pro 6
+* Surface Studio
 
 ### Supported Devices
 
@@ -140,4 +153,4 @@ Please consult the [SIGNING.md](SIGNING.md).
 
 PayPal: https://www.paypal.me/jakeday42
 
-Bitcoin: 1QCBrqiK8jXX22TqkNCVPMMShsWrUNcbf1
+Bitcoin: 1AH7ByeJBjMoAwsgi9oeNvVLmZHvGoQg68
